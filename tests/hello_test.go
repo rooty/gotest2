@@ -9,8 +9,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"ggithub.com/rooty/gotest2/app"
 	"github.com/gin-gonic/gin"
+	"github.com/rooty/gotest2/app"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/assert"
 )
